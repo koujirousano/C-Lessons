@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\DarigateSample\DarigateSample\obj\Debug\DarigateSample.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\DarigateSample\DarigateSample\obj\Debug\DarigateSample.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\DarigateSample\DarigateSample\bin\Debug\DarigateSample.exe.config
+C:\Users\AM\source\repos\DarigateSample\DarigateSample\bin\Debug\DarigateSample.exe
+C:\Users\AM\source\repos\DarigateSample\DarigateSample\bin\Debug\DarigateSample.pdb
+C:\Users\AM\source\repos\DarigateSample\DarigateSample\obj\Debug\DarigateSample.exe
+C:\Users\AM\source\repos\DarigateSample\DarigateSample\obj\Debug\DarigateSample.pdb

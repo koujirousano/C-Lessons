@@ -1,0 +1,7 @@
+C:\Users\PG_AM\source\repos\MonkeyGame\MonkeyGame\bin\Debug\MonkeyGame.exe.config
+C:\Users\PG_AM\source\repos\MonkeyGame\MonkeyGame\bin\Debug\MonkeyGame.exe
+C:\Users\PG_AM\source\repos\MonkeyGame\MonkeyGame\bin\Debug\MonkeyGame.pdb
+C:\Users\PG_AM\source\repos\MonkeyGame\MonkeyGame\obj\Debug\MonkeyGame.csprojAssemblyReference.cache
+C:\Users\PG_AM\source\repos\MonkeyGame\MonkeyGame\obj\Debug\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\PG_AM\source\repos\MonkeyGame\MonkeyGame\obj\Debug\MonkeyGame.exe
+C:\Users\PG_AM\source\repos\MonkeyGame\MonkeyGame\obj\Debug\MonkeyGame.pdb

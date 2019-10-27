@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarigateSample", "DarigateSample\DarigateSample.csproj", "{EB11E34C-1E63-465D-AFE2-0AEF78F0695D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C65F3ED8-238E-4897-8772-75D05AD70AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{0D2565D8-C80C-411A-B2CD-1678574E4D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{F2889502-6212-43F6-8B41-7E28B96C19E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefLesson", "RefLesson\RefLesson.csproj", "{9DB5C8B5-4C9B-4A84-A4E7-31583A126F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{2F25A8CE-05F1-4767-A6AD-FB7DE34AFD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamdaLesson", "RamdaLesson\RamdaLesson.csproj", "{B695431E-0692-4060-BA9B-D50BD6211001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB11E34C-1E63-465D-AFE2-0AEF78F0695D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB11E34C-1E63-465D-AFE2-0AEF78F0695D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB11E34C-1E63-465D-AFE2-0AEF78F0695D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB11E34C-1E63-465D-AFE2-0AEF78F0695D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65F3ED8-238E-4897-8772-75D05AD70AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65F3ED8-238E-4897-8772-75D05AD70AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65F3ED8-238E-4897-8772-75D05AD70AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65F3ED8-238E-4897-8772-75D05AD70AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2565D8-C80C-411A-B2CD-1678574E4D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2565D8-C80C-411A-B2CD-1678574E4D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2565D8-C80C-411A-B2CD-1678574E4D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2565D8-C80C-411A-B2CD-1678574E4D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2889502-6212-43F6-8B41-7E28B96C19E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2889502-6212-43F6-8B41-7E28B96C19E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2889502-6212-43F6-8B41-7E28B96C19E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2889502-6212-43F6-8B41-7E28B96C19E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB5C8B5-4C9B-4A84-A4E7-31583A126F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB5C8B5-4C9B-4A84-A4E7-31583A126F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB5C8B5-4C9B-4A84-A4E7-31583A126F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB5C8B5-4C9B-4A84-A4E7-31583A126F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F25A8CE-05F1-4767-A6AD-FB7DE34AFD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F25A8CE-05F1-4767-A6AD-FB7DE34AFD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F25A8CE-05F1-4767-A6AD-FB7DE34AFD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F25A8CE-05F1-4767-A6AD-FB7DE34AFD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B695431E-0692-4060-BA9B-D50BD6211001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B695431E-0692-4060-BA9B-D50BD6211001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B695431E-0692-4060-BA9B-D50BD6211001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B695431E-0692-4060-BA9B-D50BD6211001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A876889-8809-49A6-9D7B-8ED57CE7C046}
+	EndGlobalSection
+EndGlobal

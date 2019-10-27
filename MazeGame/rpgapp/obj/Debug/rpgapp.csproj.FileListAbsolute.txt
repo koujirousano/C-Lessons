@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\MazeGame\rpgapp\bin\Debug\rpgapp.exe.config
+C:\Users\AM\source\repos\MazeGame\rpgapp\bin\Debug\rpgapp.exe
+C:\Users\AM\source\repos\MazeGame\rpgapp\bin\Debug\rpgapp.pdb
+C:\Users\AM\source\repos\MazeGame\rpgapp\obj\Debug\rpgapp.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\MazeGame\rpgapp\obj\Debug\rpgapp.exe
+C:\Users\AM\source\repos\MazeGame\rpgapp\obj\Debug\rpgapp.pdb
+C:\Users\AM\source\repos\MazeGame\rpgapp\obj\Debug\rpgapp.csprojAssemblyReference.cache

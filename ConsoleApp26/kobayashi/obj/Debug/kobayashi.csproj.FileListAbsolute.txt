@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\ConsoleApp26\kobayashi\bin\Debug\kobayashi.exe.config
+C:\Users\AM\source\repos\ConsoleApp26\kobayashi\bin\Debug\kobayashi.exe
+C:\Users\AM\source\repos\ConsoleApp26\kobayashi\bin\Debug\kobayashi.pdb
+C:\Users\AM\source\repos\ConsoleApp26\kobayashi\obj\Debug\kobayashi.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\ConsoleApp26\kobayashi\obj\Debug\kobayashi.exe
+C:\Users\AM\source\repos\ConsoleApp26\kobayashi\obj\Debug\kobayashi.pdb
+C:\Users\AM\source\repos\ConsoleApp26\kobayashi\obj\Debug\kobayashi.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGame", "MazeGame\MazeGame.csproj", "{99888352-EAA3-4ADD-A85C-DC4B9D2642FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpgapp", "rpgapp\rpgapp.csproj", "{B4E153F1-5FE2-4B1C-8D0D-5772D8316C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99888352-EAA3-4ADD-A85C-DC4B9D2642FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99888352-EAA3-4ADD-A85C-DC4B9D2642FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99888352-EAA3-4ADD-A85C-DC4B9D2642FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99888352-EAA3-4ADD-A85C-DC4B9D2642FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E153F1-5FE2-4B1C-8D0D-5772D8316C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E153F1-5FE2-4B1C-8D0D-5772D8316C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E153F1-5FE2-4B1C-8D0D-5772D8316C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E153F1-5FE2-4B1C-8D0D-5772D8316C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABAC378C-606C-4417-8307-C337880A0095}
+	EndGlobalSection
+EndGlobal

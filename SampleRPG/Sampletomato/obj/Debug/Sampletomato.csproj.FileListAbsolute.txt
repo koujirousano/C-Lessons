@@ -1,0 +1,7 @@
+C:\Users\AM\source\repos\SampleRPG\Sampletomato\bin\Debug\Sampletomato.exe.config
+C:\Users\AM\source\repos\SampleRPG\Sampletomato\bin\Debug\Sampletomato.exe
+C:\Users\AM\source\repos\SampleRPG\Sampletomato\bin\Debug\Sampletomato.pdb
+C:\Users\AM\source\repos\SampleRPG\Sampletomato\obj\Debug\Sampletomato.csprojAssemblyReference.cache
+C:\Users\AM\source\repos\SampleRPG\Sampletomato\obj\Debug\Sampletomato.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\SampleRPG\Sampletomato\obj\Debug\Sampletomato.exe
+C:\Users\AM\source\repos\SampleRPG\Sampletomato\obj\Debug\Sampletomato.pdb
